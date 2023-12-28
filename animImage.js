@@ -6,7 +6,7 @@ const animImages = {
 }
 
 function getSrc(scrollPos) {
-  if (scrollPos < 100) return animImages[1];
+  if (scrollPos < 10) return animImages[1];
   return animImages[2];
   }
   
