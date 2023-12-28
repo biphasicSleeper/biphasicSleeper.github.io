@@ -1,4 +1,4 @@
-var imageEl = document.getElementById('mainImg');
+var imageEl = document.getElementById('mainImage');
 
 const animImages = {
     1:'https://file.garden/ZXoYW8qZfDccLwuG/pfp.gif',
